@@ -1,12 +1,45 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-17T15:09:19+00:00",
+  "ultima_ejecucion": "2026-11-17T17:09:41+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 851,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "36e53ol91y6d",
+      "titulo": "Hyundai i30 2008",
+      "version": "1.4 109 Confort 5p",
+      "marca_modelo": "Hyundai i30",
+      "descripcion": "Funciona bien, pero hay que hacerle embrague  \nUn solo propietario\nSiempre en garaje.",
+      "precio": 1150.0,
+      "anio": 2008,
+      "km": 182338,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Terrassa",
+      "provincia": "Barcelona",
+      "codigo_postal": "08228",
+      "pais": "ES",
+      "distancia_km": 498,
+      "url": "https://es.wallapop.com/item/hyundai-i30-2008-1325389963",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/3p/__/c10420p1325389963/i6872168571.jpg?pictureSize=W640",
+      "publicado": "2026-11-17T15:39:14+00:00",
+      "reservado": false,
+      "coste_traslado": 110,
+      "precio_efectivo": 1260.0,
+      "motor_confirmado": false,
+      "avisos": [
+        "lejos: 498 km, traslado aprox. 110 €; pide revisión en un taller de la zona antes de viajar",
+        "motor 1.4 109 Confort 5p: no es el preferido"
+      ],
+      "modelo": "i30",
+      "detectado": "2026-11-17T17:07:23+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:23+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "mzn3reqlrkjn",
       "titulo": "MAZDA 3 1.6 ITV RECIÉN PASADA CADENA DE DISTRIBUCI",
@@ -36,7 +69,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:55+00:00",
+      "ultima_vez_visto": "2026-11-17T17:08:06+00:00",
       "alerta_instantanea": false
     },
     {
@@ -166,7 +199,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-17T15:08:14+00:00",
+      "ultima_vez_visto": "2026-11-17T17:08:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -232,7 +265,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:27+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:33+00:00",
       "alerta_instantanea": false
     },
     {
@@ -264,7 +297,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-12T13:07:38+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:37+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:43+00:00",
       "alerta_instantanea": false
     },
     {
@@ -297,7 +330,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-11T11:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:55+00:00",
+      "ultima_vez_visto": "2026-11-17T17:08:06+00:00",
       "alerta_instantanea": false
     },
     {
@@ -327,40 +360,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-17T15:09:13+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "9jdwo77ge46k",
-      "titulo": "Honda Jazz 2007",
-      "version": null,
-      "marca_modelo": "Honda Jazz",
-      "descripcion": "Precio no negociable. Hay que cambiar batería, revisar y pasar la ITV y se pueden cambiar los retrovisores o no, a opción. Lleva 1 año sin moverse.",
-      "precio": 2200.0,
-      "anio": 2007,
-      "km": 125000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Mataró",
-      "provincia": "Barcelona",
-      "codigo_postal": "08300",
-      "pais": "ES",
-      "distancia_km": 530,
-      "url": "https://es.wallapop.com/item/honda-jazz-2007-1322500260",
-      "foto": "https://cdn.wallapop.com/images/10420/lv/dr/__/c10420p1322500260/i6855830561.jpg?pictureSize=W640",
-      "publicado": "2026-11-09T13:38:31+00:00",
-      "reservado": false,
-      "coste_traslado": 117,
-      "precio_efectivo": 2317.0,
-      "motor_confirmado": false,
-      "avisos": [
-        "lejos: 530 km, traslado aprox. 117 €; pide revisión en un taller de la zona antes de viajar",
-        "motor sin confirmar"
-      ],
-      "modelo": "jazz",
-      "detectado": "2026-11-09T15:09:14+00:00",
-      "ultima_vez_visto": "2026-11-13T17:09:04+00:00",
+      "ultima_vez_visto": "2026-11-17T17:09:35+00:00",
       "alerta_instantanea": false
     },
     {
@@ -392,7 +392,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-17T15:09:08+00:00",
+      "ultima_vez_visto": "2026-11-17T17:09:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +426,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-17T15:08:01+00:00",
+      "ultima_vez_visto": "2026-11-17T17:08:10+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +458,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:55+00:00",
+      "ultima_vez_visto": "2026-11-17T17:08:06+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +493,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:46+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +525,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:46+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -555,42 +555,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:42+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "e65qw1gy526o",
-      "titulo": "Toyota Corolla 2006",
-      "version": null,
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "",
-      "precio": 2500.0,
-      "anio": 2006,
-      "km": null,
-      "km_en_miles": false,
-      "combustible": "desconocido",
-      "cambio": "desconocido",
-      "ciudad": "Castilléjar",
-      "provincia": "Granada",
-      "codigo_postal": "18818",
-      "pais": "ES",
-      "distancia_km": 314,
-      "url": "https://es.wallapop.com/item/toyota-corolla-2006-1319529972",
-      "foto": "https://cdn.wallapop.com/images/10420/lt/m3/__/c10420p1319529972/i6834300990.jpg?pictureSize=W640",
-      "publicado": "2026-11-01T19:30:00+00:00",
-      "reservado": false,
-      "coste_traslado": 69,
-      "precio_efectivo": 2569.0,
-      "motor_confirmado": false,
-      "avisos": [
-        "lejos: 314 km, traslado aprox. 69 €; pide revisión en un taller de la zona antes de viajar",
-        "combustible sin confirmar",
-        "km sin confirmar",
-        "motor sin confirmar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-13T17:07:39+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +587,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:27+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:33+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +651,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:23+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:24+00:00",
       "alerta_instantanea": false
     },
     {
@@ -721,7 +686,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-17T15:07:08+00:00",
+      "ultima_vez_visto": "2026-11-17T17:07:06+00:00",
       "alerta_instantanea": false
     }
   ]
