@@ -1,12 +1,44 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-17T11:09:27+00:00",
+  "ultima_ejecucion": "2026-11-17T13:09:25+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 850,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "mzn3reqlrkjn",
+      "titulo": "MAZDA 3 1.6 ITV RECIÉN PASADA CADENA DE DISTRIBUCI",
+      "version": "1.6 VVT 105 Active+ 4p",
+      "marca_modelo": "Mazda 3",
+      "descripcion": "Itv ✅️  recién pasada y con cadena de distribución ⛓️ \n\n💛 DISTINTIVO-AMBIENTAL DGT C\n\n⛺️ Gran maletero y espacio interior, así como anclajes ISOFIX.Todo el mantenimiento en Mazda demostrable\n\nDisfruta de un coche con buen comportamiento y espacio por menos de lo que te piden por un teléfono móvil, fiable de los de antes, sin tantos rollos ni cadenas que se parten o correas  bañadas en aceite.\n\nSimilar a Ford Mondeo Opel Vectra Insignia, Signum,  Alfa Romeo 159 Giulia Gt , Fiat Croma ,  Marea, Lancia Lybra Mazda 6 Toyota Avensis Peugeot 407 508 Volkswagen Passat Honda Accord Mercedes Clase C c1",
+      "precio": 1650.0,
+      "anio": 2006,
+      "km": null,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Getafe",
+      "provincia": "Madrid",
+      "codigo_postal": "28907",
+      "pais": "ES",
+      "distancia_km": 11,
+      "url": "https://es.wallapop.com/item/mazda-3-2006-1325322401",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/29/__/c10420p1325322401/i6871819097.jpg?pictureSize=W640",
+      "publicado": "2026-11-17T12:17:10+00:00",
+      "reservado": false,
+      "coste_traslado": 0,
+      "precio_efectivo": 1650.0,
+      "motor_confirmado": true,
+      "avisos": [
+        "km sin confirmar"
+      ],
+      "modelo": "mazda3",
+      "detectado": "2026-11-17T13:07:57+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:57+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "xzogy3gw2wj9",
       "titulo": "Mazda 3 2005",
@@ -134,7 +166,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-17T11:08:22+00:00",
+      "ultima_vez_visto": "2026-11-17T13:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -200,7 +232,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:33+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:28+00:00",
       "alerta_instantanea": false
     },
     {
@@ -232,7 +264,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-12T13:07:38+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:42+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:39+00:00",
       "alerta_instantanea": false
     },
     {
@@ -265,39 +297,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-11T11:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T11:08:01+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "0j280rd29mjy",
-      "titulo": "Toyota Corolla 2002",
-      "version": "1.4 VVT-i 97 5p",
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "Toyota Corolla en un llamativo color verde oscuro con acabado brillante.\n\n- Carrocería de cuatro puertas.\n- Llantas de aleación.\n- Interior con tapicería en tonos neutros.",
-      "precio": 2350.0,
-      "anio": 2002,
-      "km": 193000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Badalona",
-      "provincia": "Barcelona",
-      "codigo_postal": "08917",
-      "pais": "ES",
-      "distancia_km": 510,
-      "url": "https://es.wallapop.com/item/toyota-corolla-verde-1323007511",
-      "foto": "https://cdn.wallapop.com/images/10420/lv/on/__/c10420p1323007511/i6858628537.jpg?pictureSize=W640",
-      "publicado": "2026-11-10T19:41:07+00:00",
-      "reservado": false,
-      "coste_traslado": 112,
-      "precio_efectivo": 2462.0,
-      "motor_confirmado": true,
-      "avisos": [
-        "lejos: 510 km, traslado aprox. 112 €; pide revisión en un taller de la zona antes de viajar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-10T21:07:38+00:00",
-      "ultima_vez_visto": "2026-11-13T13:07:41+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:58+00:00",
       "alerta_instantanea": false
     },
     {
@@ -327,7 +327,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-17T11:09:22+00:00",
+      "ultima_vez_visto": "2026-11-17T13:09:20+00:00",
       "alerta_instantanea": false
     },
     {
@@ -392,7 +392,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-17T11:09:17+00:00",
+      "ultima_vez_visto": "2026-11-17T13:09:14+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +426,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-17T11:08:05+00:00",
+      "ultima_vez_visto": "2026-11-17T13:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +458,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-17T11:08:01+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:58+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +493,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:50+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +525,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:50+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -555,7 +555,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:47+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:42+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +622,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:34+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:28+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +686,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:27+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -721,7 +721,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-17T11:07:08+00:00",
+      "ultima_vez_visto": "2026-11-17T13:07:06+00:00",
       "alerta_instantanea": false
     }
   ]
