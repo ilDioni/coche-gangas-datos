@@ -1,10 +1,10 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-17T09:09:23+00:00",
+  "ultima_ejecucion": "2026-11-17T11:09:27+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 848,
+  "anuncios_revisados": 850,
   "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
@@ -134,7 +134,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-17T09:08:16+00:00",
+      "ultima_vez_visto": "2026-11-17T11:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -200,7 +200,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:29+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:33+00:00",
       "alerta_instantanea": false
     },
     {
@@ -232,7 +232,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-12T13:07:38+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:39+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:42+00:00",
       "alerta_instantanea": false
     },
     {
@@ -265,7 +265,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-11T11:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:58+00:00",
+      "ultima_vez_visto": "2026-11-17T11:08:01+00:00",
       "alerta_instantanea": false
     },
     {
@@ -327,7 +327,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-17T09:09:19+00:00",
+      "ultima_vez_visto": "2026-11-17T11:09:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -392,7 +392,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-17T09:09:13+00:00",
+      "ultima_vez_visto": "2026-11-17T11:09:17+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +426,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-17T09:08:02+00:00",
+      "ultima_vez_visto": "2026-11-17T11:08:05+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +458,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:58+00:00",
+      "ultima_vez_visto": "2026-11-17T11:08:01+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +493,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:48+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +525,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:48+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -555,7 +555,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:43+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +622,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:29+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:34+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +686,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:23+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:27+00:00",
       "alerta_instantanea": false
     },
     {
@@ -721,7 +721,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-17T09:07:08+00:00",
+      "ultima_vez_visto": "2026-11-17T11:07:08+00:00",
       "alerta_instantanea": false
     }
   ]
