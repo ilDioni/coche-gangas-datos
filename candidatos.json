@@ -1,12 +1,45 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-17T21:09:42+00:00",
+  "ultima_ejecucion": "2026-11-18T07:09:32+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 853,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 857,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "e65qxe8ywm6o",
+      "titulo": "Toyota Yaris 2010",
+      "version": null,
+      "marca_modelo": "Toyota Yaris",
+      "descripcion": "Se vende toyota yaris unica propietaria se vende por canbio de coche",
+      "precio": 2700.0,
+      "anio": 2010,
+      "km": 190000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Cádiz",
+      "provincia": "Cádiz",
+      "codigo_postal": "11006",
+      "pais": "ES",
+      "distancia_km": 487,
+      "url": "https://es.wallapop.com/item/toyota-yaris-2010-1325515896",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/6e/__/c10420p1325515896/i6872817943.jpg?pictureSize=W640",
+      "publicado": "2026-11-17T21:38:19+00:00",
+      "reservado": false,
+      "coste_traslado": 107,
+      "precio_efectivo": 2807.0,
+      "motor_confirmado": false,
+      "avisos": [
+        "lejos: 487 km, traslado aprox. 107 €; pide revisión en un taller de la zona antes de viajar",
+        "motor sin confirmar"
+      ],
+      "modelo": "yaris",
+      "detectado": "2026-11-18T07:09:16+00:00",
+      "ultima_vez_visto": "2026-11-18T07:09:16+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "36e53ol91y6d",
       "titulo": "Hyundai i30 2008",
@@ -69,7 +102,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T21:08:13+00:00",
+      "ultima_vez_visto": "2026-11-18T07:08:00+00:00",
       "alerta_instantanea": false
     },
     {
@@ -199,7 +232,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-17T21:08:35+00:00",
+      "ultima_vez_visto": "2026-11-18T07:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -265,7 +298,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:38+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:30+00:00",
       "alerta_instantanea": false
     },
     {
@@ -297,7 +330,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-12T13:07:38+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:50+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:41+00:00",
       "alerta_instantanea": false
     },
     {
@@ -330,7 +363,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-11T11:07:57+00:00",
-      "ultima_vez_visto": "2026-11-17T21:08:13+00:00",
+      "ultima_vez_visto": "2026-11-18T07:08:00+00:00",
       "alerta_instantanea": false
     },
     {
@@ -360,7 +393,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-17T21:09:36+00:00",
+      "ultima_vez_visto": "2026-11-18T07:09:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -392,7 +425,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-17T21:09:32+00:00",
+      "ultima_vez_visto": "2026-11-18T07:09:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +459,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-17T21:08:17+00:00",
+      "ultima_vez_visto": "2026-11-18T07:08:05+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +491,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-17T21:08:13+00:00",
+      "ultima_vez_visto": "2026-11-18T07:08:00+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +526,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:57+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:48+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +558,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:57+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:48+00:00",
       "alerta_instantanea": false
     },
     {
@@ -555,7 +588,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:57+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:48+00:00",
       "alerta_instantanea": false
     },
     {
@@ -587,7 +620,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:38+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:30+00:00",
       "alerta_instantanea": false
     },
     {
@@ -651,7 +684,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:27+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +719,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-17T21:07:08+00:00",
+      "ultima_vez_visto": "2026-11-18T07:07:07+00:00",
       "alerta_instantanea": false
     }
   ]
