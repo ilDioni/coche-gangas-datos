@@ -1,12 +1,77 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-18T21:09:41+00:00",
+  "ultima_ejecucion": "2026-11-19T07:09:34+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 851,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 848,
+  "nuevos_o_rebajados_en_esta_ejecucion": 2,
   "candidatos": [
+    {
+      "id": "p618p1oyv5z5",
+      "titulo": "Toyota Yaris 2006",
+      "version": "1.3 86 Sol 5p",
+      "marca_modelo": "Toyota Yaris",
+      "descripcion": "Tiene un ruido en el motor, se vende tal cual",
+      "precio": 1650.0,
+      "anio": 2006,
+      "km": null,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Galapagar",
+      "provincia": "Madrid",
+      "codigo_postal": "28260",
+      "pais": "ES",
+      "distancia_km": 31,
+      "url": "https://es.wallapop.com/item/toyota-yaris-2006-1325806879",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/cn/__/c10420p1325806879/i6874538939.jpg?pictureSize=W640",
+      "publicado": "2026-11-18T18:51:19+00:00",
+      "reservado": false,
+      "coste_traslado": 0,
+      "precio_efectivo": 1650.0,
+      "motor_confirmado": true,
+      "avisos": [
+        "km sin confirmar"
+      ],
+      "modelo": "yaris",
+      "detectado": "2026-11-19T07:09:22+00:00",
+      "ultima_vez_visto": "2026-11-19T07:09:22+00:00",
+      "alerta_instantanea": false
+    },
+    {
+      "id": "pzpkl32xm5j3",
+      "titulo": "Hyundai i30 2008",
+      "version": "1.6 122 Style 5p",
+      "marca_modelo": "Hyundai i30",
+      "descripcion": "El coche se encuentra en perfecto estado salvo el frontal debido al golpe, el interior esta como nuevo, muy cuidado, el motor funciona perfectamente",
+      "precio": 2000.0,
+      "anio": 2008,
+      "km": null,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Las Esperanzas",
+      "provincia": "Murcia",
+      "codigo_postal": "30740",
+      "pais": "ES",
+      "distancia_km": 381,
+      "url": "https://es.wallapop.com/item/hyundai-i30-2008-1325853850",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/dn/__/c10420p1325853850/i6874766157.jpg?pictureSize=W640",
+      "publicado": "2026-11-18T21:22:56+00:00",
+      "reservado": false,
+      "coste_traslado": 84,
+      "precio_efectivo": 2084.0,
+      "motor_confirmado": true,
+      "avisos": [
+        "lejos: 381 km, traslado aprox. 84 €; pide revisión en un taller de la zona antes de viajar",
+        "km sin confirmar"
+      ],
+      "modelo": "i30",
+      "detectado": "2026-11-19T07:07:26+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:26+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "e65qxe8ywm6o",
       "titulo": "Toyota Yaris 2010",
@@ -37,7 +102,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-18T07:09:16+00:00",
-      "ultima_vez_visto": "2026-11-18T21:09:26+00:00",
+      "ultima_vez_visto": "2026-11-19T07:09:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -102,7 +167,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-18T21:08:10+00:00",
+      "ultima_vez_visto": "2026-11-19T07:08:10+00:00",
       "alerta_instantanea": false
     },
     {
@@ -232,7 +297,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-18T21:08:33+00:00",
+      "ultima_vez_visto": "2026-11-19T07:08:30+00:00",
       "alerta_instantanea": false
     },
     {
@@ -298,7 +363,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:32+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:37+00:00",
       "alerta_instantanea": false
     },
     {
@@ -393,7 +458,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-18T21:09:36+00:00",
+      "ultima_vez_visto": "2026-11-19T07:09:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -425,7 +490,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-18T21:09:29+00:00",
+      "ultima_vez_visto": "2026-11-19T07:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -459,7 +524,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-18T21:08:15+00:00",
+      "ultima_vez_visto": "2026-11-19T07:08:17+00:00",
       "alerta_instantanea": false
     },
     {
@@ -491,7 +556,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-18T21:08:11+00:00",
+      "ultima_vez_visto": "2026-11-19T07:08:10+00:00",
       "alerta_instantanea": false
     },
     {
@@ -526,7 +591,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:54+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:53+00:00",
       "alerta_instantanea": false
     },
     {
@@ -558,7 +623,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-18T21:08:00+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:53+00:00",
       "alerta_instantanea": false
     },
     {
@@ -588,7 +653,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:54+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:53+00:00",
       "alerta_instantanea": false
     },
     {
@@ -620,7 +685,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:32+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:37+00:00",
       "alerta_instantanea": false
     },
     {
@@ -684,7 +749,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:27+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -719,7 +784,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-18T21:07:14+00:00",
+      "ultima_vez_visto": "2026-11-19T07:07:14+00:00",
       "alerta_instantanea": false
     }
   ]
