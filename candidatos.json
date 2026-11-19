@@ -1,10 +1,10 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-19T15:09:20+00:00",
+  "ultima_ejecucion": "2026-11-19T17:09:31+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 839,
+  "anuncios_revisados": 835,
   "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
@@ -69,7 +69,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:22+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -167,7 +167,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:57+00:00",
+      "ultima_vez_visto": "2026-11-19T17:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -297,39 +297,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-19T15:08:14+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "qzmmqm9m91zv",
-      "titulo": "Toyota Corolla 2006",
-      "version": "1.6 VVT-i 110 Sol 5p",
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "Toyota corolla con pocos km perfecto de mecánica elevalunas en las 4 puertas cierre centralizado volante multinacional,neumaticos al 80%itv reciente,algunos desperfectos de chapa y pintura por estar en la calle,  de pintura desmejorado unicopropietario,atiendo al 698508715",
-      "precio": 2900.0,
-      "anio": 2006,
-      "km": 150000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Sevilla",
-      "provincia": "Sevilla",
-      "codigo_postal": "41019",
-      "pais": "ES",
-      "distancia_km": 385,
-      "url": "https://es.wallapop.com/item/toyota-corolla-2006-1323803556",
-      "foto": "https://cdn.wallapop.com/images/10420/lw/5p/__/c10420p1323803556/i6863279039.jpg?pictureSize=W640",
-      "publicado": "2026-11-13T05:41:08+00:00",
-      "reservado": false,
-      "coste_traslado": 85,
-      "precio_efectivo": 2985.0,
-      "motor_confirmado": true,
-      "avisos": [
-        "lejos: 385 km, traslado aprox. 85 €; pide revisión en un taller de la zona antes de viajar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-13T07:07:40+00:00",
-      "ultima_vez_visto": "2026-11-15T17:07:34+00:00",
+      "ultima_vez_visto": "2026-11-19T17:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -363,7 +331,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:27+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +426,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-19T15:09:15+00:00",
+      "ultima_vez_visto": "2026-11-19T17:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -490,7 +458,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-19T15:09:09+00:00",
+      "ultima_vez_visto": "2026-11-19T17:09:20+00:00",
       "alerta_instantanea": false
     },
     {
@@ -524,7 +492,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-19T15:08:01+00:00",
+      "ultima_vez_visto": "2026-11-19T17:08:08+00:00",
       "alerta_instantanea": false
     },
     {
@@ -556,7 +524,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:57+00:00",
+      "ultima_vez_visto": "2026-11-19T17:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -591,7 +559,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:41+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -623,7 +591,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:41+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -653,7 +621,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:41+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -685,7 +653,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:27+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -749,7 +717,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:22+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -784,7 +752,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-19T15:07:10+00:00",
+      "ultima_vez_visto": "2026-11-19T17:07:12+00:00",
       "alerta_instantanea": false
     }
   ]
