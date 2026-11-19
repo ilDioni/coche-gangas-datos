@@ -1,12 +1,46 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-19T17:09:31+00:00",
+  "ultima_ejecucion": "2026-11-19T19:09:17+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 835,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 838,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "nz08k5yd1v6o",
+      "titulo": "Toyota Avensis 2008",
+      "version": null,
+      "marca_modelo": "Toyota Avensis",
+      "descripcion": "Vendo Toyota Avensis ,  Batería nueva , itv hasta marzo 2027, conducción por la derecha,buen estado de funcionamiento , a.c.,  precio sin negociar",
+      "precio": 1500.0,
+      "anio": 2008,
+      "km": 155000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Torrevieja",
+      "provincia": "Alacant/Alicante",
+      "codigo_postal": "03183",
+      "pais": "ES",
+      "distancia_km": 373,
+      "url": "https://es.wallapop.com/item/toyota-avensis-2008-1297043451",
+      "foto": "https://cdn.wallapop.com/images/10420/lg/85/__/c10420p1297043451/i6705770949.jpg?pictureSize=W640",
+      "publicado": "2026-09-01T08:43:14+00:00",
+      "reservado": false,
+      "coste_traslado": 82,
+      "precio_efectivo": 1582.0,
+      "motor_confirmado": false,
+      "avisos": [
+        "lejos: 373 km, traslado aprox. 82 €; pide revisión en un taller de la zona antes de viajar",
+        "motor sin confirmar"
+      ],
+      "modelo": "avensis",
+      "detectado": "2026-11-19T19:08:39+00:00",
+      "ultima_vez_visto": "2026-11-19T19:08:39+00:00",
+      "rebajado_desde": 1900.0,
+      "alerta_instantanea": false
+    },
     {
       "id": "p618p1oyv5z5",
       "titulo": "Toyota Yaris 2006",
@@ -69,7 +103,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:23+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -167,7 +201,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-19T17:08:03+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:54+00:00",
       "alerta_instantanea": false
     },
     {
@@ -201,39 +235,6 @@
       "detectado": "2026-11-15T15:07:54+00:00",
       "ultima_vez_visto": "2026-11-16T17:07:58+00:00",
       "rebajado_desde": 1800.0,
-      "alerta_instantanea": false
-    },
-    {
-      "id": "qjwrx79yq46o",
-      "titulo": "Toyota Corolla 2003",
-      "version": null,
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "",
-      "precio": 1800.0,
-      "anio": 2003,
-      "km": 120000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "L' Ortigos",
-      "provincia": "Tarragona",
-      "codigo_postal": "43717",
-      "pais": "ES",
-      "distancia_km": 446,
-      "url": "https://es.wallapop.com/item/toyota-corolla-2003-1324603229",
-      "foto": "https://cdn.wallapop.com/images/10420/lw/mu/__/c10420p1324603229/i6867458670.jpg?pictureSize=W640",
-      "publicado": "2026-11-15T12:56:58+00:00",
-      "reservado": false,
-      "coste_traslado": 98,
-      "precio_efectivo": 1898.0,
-      "motor_confirmado": false,
-      "avisos": [
-        "lejos: 446 km, traslado aprox. 98 €; pide revisión en un taller de la zona antes de viajar",
-        "motor sin confirmar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-15T13:07:44+00:00",
-      "ultima_vez_visto": "2026-11-15T19:07:37+00:00",
       "alerta_instantanea": false
     },
     {
@@ -297,7 +298,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-19T17:08:22+00:00",
+      "ultima_vez_visto": "2026-11-19T19:08:14+00:00",
       "alerta_instantanea": false
     },
     {
@@ -331,7 +332,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:26+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +427,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-19T17:09:25+00:00",
+      "ultima_vez_visto": "2026-11-19T19:09:14+00:00",
       "alerta_instantanea": false
     },
     {
@@ -458,7 +459,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-19T17:09:20+00:00",
+      "ultima_vez_visto": "2026-11-19T19:09:08+00:00",
       "alerta_instantanea": false
     },
     {
@@ -492,7 +493,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-19T17:08:08+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:58+00:00",
       "alerta_instantanea": false
     },
     {
@@ -524,7 +525,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-19T17:08:03+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:54+00:00",
       "alerta_instantanea": false
     },
     {
@@ -559,7 +560,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:40+00:00",
       "alerta_instantanea": false
     },
     {
@@ -591,7 +592,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:40+00:00",
       "alerta_instantanea": false
     },
     {
@@ -621,7 +622,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:40+00:00",
       "alerta_instantanea": false
     },
     {
@@ -653,7 +654,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:26+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -717,7 +718,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:23+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -752,7 +753,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-19T17:07:12+00:00",
+      "ultima_vez_visto": "2026-11-19T19:07:10+00:00",
       "alerta_instantanea": false
     }
   ]
