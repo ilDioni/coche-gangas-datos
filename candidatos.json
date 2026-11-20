@@ -1,10 +1,10 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-20T11:09:29+00:00",
+  "ultima_ejecucion": "2026-11-20T13:09:28+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 844,
+  "anuncios_revisados": 838,
   "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
@@ -37,7 +37,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-20T11:08:49+00:00",
+      "ultima_vez_visto": "2026-11-20T13:08:44+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -103,7 +103,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -201,7 +201,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-20T11:08:07+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:59+00:00",
       "alerta_instantanea": false
     },
     {
@@ -238,38 +238,6 @@
       "alerta_instantanea": false
     },
     {
-      "id": "9jdwo8wg9l6k",
-      "titulo": "Toyota Corolla 2002",
-      "version": "1.4 VVT-i 97 5p",
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "Buenas vendo Toyota corolla del año 2002 combustible gasolina distintivo ambiental b en muy buen estado de motor i caja de cambios funciona correctamente itv en vigor de chapa pintura tiene algún roce que otro nada grave mejor venir i ver gracias!!!!",
-      "precio": 1600.0,
-      "anio": 2002,
-      "km": 197000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Badalona",
-      "provincia": "Barcelona",
-      "codigo_postal": "08917",
-      "pais": "ES",
-      "distancia_km": 510,
-      "url": "https://es.wallapop.com/item/toyota-corolla-2002-1324214612",
-      "foto": "https://cdn.wallapop.com/images/10420/lw/ei/__/c10420p1324214612/i6865632872.jpg?pictureSize=W640",
-      "publicado": "2026-11-14T11:29:36+00:00",
-      "reservado": false,
-      "coste_traslado": 112,
-      "precio_efectivo": 1712.0,
-      "motor_confirmado": true,
-      "avisos": [
-        "lejos: 510 km, traslado aprox. 112 €; pide revisión en un taller de la zona antes de viajar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-14T13:07:40+00:00",
-      "ultima_vez_visto": "2026-11-16T13:07:38+00:00",
-      "alerta_instantanea": false
-    },
-    {
       "id": "0j2808x9mejy",
       "titulo": "Honda Accord 2003",
       "version": "2.0 i-VTEC 155 Confort 4p",
@@ -298,7 +266,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-20T11:08:25+00:00",
+      "ultima_vez_visto": "2026-11-20T13:08:18+00:00",
       "alerta_instantanea": false
     },
     {
@@ -332,7 +300,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:37+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:30+00:00",
       "alerta_instantanea": false
     },
     {
@@ -427,7 +395,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-20T11:09:23+00:00",
+      "ultima_vez_visto": "2026-11-20T13:09:24+00:00",
       "alerta_instantanea": false
     },
     {
@@ -459,7 +427,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-20T11:09:20+00:00",
+      "ultima_vez_visto": "2026-11-20T13:09:20+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +461,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-20T11:08:11+00:00",
+      "ultima_vez_visto": "2026-11-20T13:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +493,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-20T11:08:07+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:59+00:00",
       "alerta_instantanea": false
     },
     {
@@ -560,7 +528,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:51+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:46+00:00",
       "alerta_instantanea": false
     },
     {
@@ -592,7 +560,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:51+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:46+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +590,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:51+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:46+00:00",
       "alerta_instantanea": false
     },
     {
@@ -654,7 +622,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:37+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:30+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +654,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-08T16:40:12+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -721,7 +689,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-20T11:07:09+00:00",
+      "ultima_vez_visto": "2026-11-20T13:07:06+00:00",
       "alerta_instantanea": false
     }
   ]
