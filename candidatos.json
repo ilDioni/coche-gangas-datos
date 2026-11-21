@@ -1,7 +1,7 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-21T15:09:30+00:00",
+  "ultima_ejecucion": "2026-11-21T17:09:21+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 837,
@@ -36,7 +36,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-21T13:07:29+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:26+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -68,7 +68,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:20+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:19+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -102,7 +102,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-21T15:08:47+00:00",
+      "ultima_vez_visto": "2026-11-21T17:08:43+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -168,7 +168,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:20+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -205,39 +205,6 @@
       "alerta_instantanea": false
     },
     {
-      "id": "36e53ol91y6d",
-      "titulo": "Hyundai i30 2008",
-      "version": "1.4 109 Confort 5p",
-      "marca_modelo": "Hyundai i30",
-      "descripcion": "Funciona bien, pero hay que hacerle embrague  \nUn solo propietario\nSiempre en garaje.",
-      "precio": 1150.0,
-      "anio": 2008,
-      "km": 182338,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Terrassa",
-      "provincia": "Barcelona",
-      "codigo_postal": "08228",
-      "pais": "ES",
-      "distancia_km": 498,
-      "url": "https://es.wallapop.com/item/hyundai-i30-2008-1325389963",
-      "foto": "https://cdn.wallapop.com/images/10420/lx/3p/__/c10420p1325389963/i6872168571.jpg?pictureSize=W640",
-      "publicado": "2026-11-17T15:39:14+00:00",
-      "reservado": false,
-      "coste_traslado": 110,
-      "precio_efectivo": 1260.0,
-      "motor_confirmado": false,
-      "avisos": [
-        "lejos: 498 km, traslado aprox. 110 €; pide revisión en un taller de la zona antes de viajar",
-        "motor 1.4 109 Confort 5p: no es el preferido"
-      ],
-      "modelo": "i30",
-      "detectado": "2026-11-17T17:07:23+00:00",
-      "ultima_vez_visto": "2026-11-17T17:07:23+00:00",
-      "alerta_instantanea": false
-    },
-    {
       "id": "mzn3reqlrkjn",
       "titulo": "MAZDA 3 1.6 ITV RECIÉN PASADA CADENA DE DISTRIBUCI",
       "version": "1.6 VVT 105 Active+ 4p",
@@ -266,7 +233,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-21T15:08:01+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:52+00:00",
       "alerta_instantanea": false
     },
     {
@@ -298,7 +265,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-21T15:08:22+00:00",
+      "ultima_vez_visto": "2026-11-21T17:08:16+00:00",
       "alerta_instantanea": false
     },
     {
@@ -332,7 +299,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:26+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -427,7 +394,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-21T15:09:24+00:00",
+      "ultima_vez_visto": "2026-11-21T17:09:17+00:00",
       "alerta_instantanea": false
     },
     {
@@ -459,7 +426,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-21T15:09:20+00:00",
+      "ultima_vez_visto": "2026-11-21T17:09:11+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +460,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-21T15:08:06+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:59+00:00",
       "alerta_instantanea": false
     },
     {
@@ -525,7 +492,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-21T15:08:01+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:52+00:00",
       "alerta_instantanea": false
     },
     {
@@ -560,7 +527,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:47+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:43+00:00",
       "alerta_instantanea": false
     },
     {
@@ -592,7 +559,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:47+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:43+00:00",
       "alerta_instantanea": false
     },
     {
@@ -654,7 +621,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:26+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:23+00:00",
       "alerta_instantanea": false
     },
     {
@@ -689,7 +656,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-21T15:07:05+00:00",
+      "ultima_vez_visto": "2026-11-21T17:07:06+00:00",
       "alerta_instantanea": false
     }
   ]
