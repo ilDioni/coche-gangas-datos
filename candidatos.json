@@ -1,12 +1,44 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-21T11:09:34+00:00",
+  "ultima_ejecucion": "2026-11-21T13:09:31+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 837,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "e65qx2yv3g6o",
+      "titulo": "KIA Ceed 2008",
+      "version": "pro_cee d 2.0 143 Emotion 3p",
+      "marca_modelo": "KIA Ceed",
+      "descripcion": "Se vende coche económico amplio fiable con muy pocos kms con una gran potencia y mucha vida por delante algún desperfecto de chapa Interior  perfecto neumáticos al 100% itv 07/2027 \nExtras\n✅ control de velocidad \n✅volante multifuncional \n✅pantalla car play \n✅bluethooth aux usb \n✅ac\n✅luces automáticas \n✅dos llaves etc mas extras \nAcepto prueba mecanica aceptaria coche a cambio aport.",
+      "precio": 3000.0,
+      "anio": 2008,
+      "km": 130000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Meco",
+      "provincia": "Madrid",
+      "codigo_postal": "28880",
+      "pais": "ES",
+      "distancia_km": 35,
+      "url": "https://es.wallapop.com/item/kia-ceed-2008-1325805196",
+      "foto": "https://cdn.wallapop.com/images/10420/lx/cl/__/c10420p1325805196/i6874531833.jpg?pictureSize=W640",
+      "publicado": "2026-11-18T18:46:35+00:00",
+      "reservado": false,
+      "coste_traslado": 0,
+      "precio_efectivo": 3000.0,
+      "motor_confirmado": false,
+      "avisos": [
+        "motor pro_cee d 2.0 143 Emotion 3p: no es el preferido"
+      ],
+      "modelo": "ceed",
+      "detectado": "2026-11-21T13:07:29+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:29+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "36e5menxgq6d",
       "titulo": "Hyundai i30 2009",
@@ -36,7 +68,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:22+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -70,7 +102,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-21T11:08:51+00:00",
+      "ultima_vez_visto": "2026-11-21T13:08:48+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -136,7 +168,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -234,7 +266,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:58+00:00",
+      "ultima_vez_visto": "2026-11-21T13:08:02+00:00",
       "alerta_instantanea": false
     },
     {
@@ -266,7 +298,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-21T11:08:19+00:00",
+      "ultima_vez_visto": "2026-11-21T13:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -300,7 +332,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:28+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -395,7 +427,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-21T11:09:28+00:00",
+      "ultima_vez_visto": "2026-11-21T13:09:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -427,7 +459,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-21T11:09:23+00:00",
+      "ultima_vez_visto": "2026-11-21T13:09:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -461,7 +493,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-21T11:08:04+00:00",
+      "ultima_vez_visto": "2026-11-21T13:08:08+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +525,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:58+00:00",
+      "ultima_vez_visto": "2026-11-21T13:08:02+00:00",
       "alerta_instantanea": false
     },
     {
@@ -528,7 +560,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:48+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -560,7 +592,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:48+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +654,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:29+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -657,7 +689,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-21T11:07:08+00:00",
+      "ultima_vez_visto": "2026-11-21T13:07:09+00:00",
       "alerta_instantanea": false
     }
   ]
