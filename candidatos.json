@@ -1,10 +1,10 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-21T21:09:26+00:00",
+  "ultima_ejecucion": "2026-11-22T07:09:32+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 839,
+  "anuncios_revisados": 841,
   "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
@@ -36,7 +36,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-21T13:07:29+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:30+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -45,30 +45,30 @@
       "version": "1.4 109 Classic 5p",
       "marca_modelo": "Hyundai i30",
       "descripcion": "NO MARENTES / GENTE INTERESADA  PRECIO NEGOCIABLE\nCoche en buen estado ITV hasta 2027\nAceite y filtros cambiados hace poco\nSin fallos lo único que  habría que cambiar el sensor de DETONACIÓN (GASES)\nDe chapa y pintura algún rocecillo y en los marcos de las puertas traseras tiene algo de oxido por aberse olvidado las ventanillas abiertas.\nSE PUEDE VER Y PROBAR",
-      "precio": 2400.0,
+      "precio": 2380.0,
       "anio": 2009,
       "km": 143000,
       "km_en_miles": false,
       "combustible": "gasolina",
       "cambio": "manual",
-      "ciudad": "Yepes",
+      "ciudad": "Ocaña",
       "provincia": "Toledo",
-      "codigo_postal": "45313",
+      "codigo_postal": "45300",
       "pais": "ES",
-      "distancia_km": 58,
+      "distancia_km": 54,
       "url": "https://es.wallapop.com/item/hyundai-i30-2009-1253162039",
       "foto": "https://cdn.wallapop.com/images/10420/kq/3m/__/c10420p1253162039/i6439619213.jpg?pictureSize=W640",
       "publicado": "2026-04-16T22:47:26+00:00",
       "reservado": false,
       "coste_traslado": 0,
-      "precio_efectivo": 2400.0,
+      "precio_efectivo": 2380.0,
       "motor_confirmado": false,
       "avisos": [
         "motor 1.4 109 Classic 5p: no es el preferido"
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:26+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:24+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -102,7 +102,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-21T21:08:43+00:00",
+      "ultima_vez_visto": "2026-11-22T07:08:49+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -168,7 +168,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:25+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:24+00:00",
       "alerta_instantanea": false
     },
     {
@@ -233,7 +233,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:58+00:00",
+      "ultima_vez_visto": "2026-11-22T07:08:02+00:00",
       "alerta_instantanea": false
     },
     {
@@ -265,7 +265,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-21T21:08:15+00:00",
+      "ultima_vez_visto": "2026-11-22T07:08:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -299,7 +299,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:30+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -394,7 +394,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-21T21:09:19+00:00",
+      "ultima_vez_visto": "2026-11-22T07:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +426,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-21T21:09:13+00:00",
+      "ultima_vez_visto": "2026-11-22T07:09:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -460,7 +460,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-21T21:08:04+00:00",
+      "ultima_vez_visto": "2026-11-22T07:08:08+00:00",
       "alerta_instantanea": false
     },
     {
@@ -492,7 +492,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:58+00:00",
+      "ultima_vez_visto": "2026-11-22T07:08:02+00:00",
       "alerta_instantanea": false
     },
     {
@@ -527,7 +527,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:49+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -559,7 +559,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:49+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -621,7 +621,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:30+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -656,7 +656,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-21T21:07:08+00:00",
+      "ultima_vez_visto": "2026-11-22T07:07:12+00:00",
       "alerta_instantanea": false
     }
   ]
