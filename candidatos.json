@@ -1,12 +1,74 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-22T13:09:27+00:00",
+  "ultima_ejecucion": "2026-11-22T15:09:29+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 839,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 840,
+  "nuevos_o_rebajados_en_esta_ejecucion": 2,
   "candidatos": [
+    {
+      "id": "e65qx5w13p6o",
+      "titulo": "KIA Ceed 2011",
+      "version": "pro_cee d 1.4 CVVT 90 Concept 3p MY11",
+      "marca_modelo": "KIA Ceed",
+      "descripcion": "KIA CEED 1.4 GASOLINA – 2011\n\n* Motor: 1.4 gasolina\n* Cambio manual de 5 velocidades\n* Vehículo nacional\n* Historial completo de mantenimiento\n* Buen estado general\n* Aire acondicionado\n* Bluetooth\n* Elevalunas eléctricos\n* Anclajes ISOFIX\n* 1 llave disponible\n\nSe puede venir a ver y probar el vehículo sin compromiso.\n\nPrecio fijo, no negociable.",
+      "precio": 2500.0,
+      "anio": 2011,
+      "km": 166000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Barcelona",
+      "provincia": "Barcelona",
+      "codigo_postal": "08070",
+      "pais": "ES",
+      "distancia_km": 506,
+      "url": "https://es.wallapop.com/item/kia-ceed-2011-1327072400",
+      "foto": "https://cdn.wallapop.com/images/10420/ly/3r/__/c10420p1327072400/i6881041301.jpg?pictureSize=W640",
+      "publicado": "2026-11-22T15:04:42+00:00",
+      "reservado": false,
+      "coste_traslado": 111,
+      "precio_efectivo": 2611.0,
+      "motor_confirmado": true,
+      "avisos": [
+        "lejos: 506 km, traslado aprox. 111 €; pide revisión en un taller de la zona antes de viajar"
+      ],
+      "modelo": "ceed",
+      "detectado": "2026-11-22T15:07:32+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:32+00:00",
+      "alerta_instantanea": false
+    },
+    {
+      "id": "w67vmpwkq96x",
+      "titulo": "Hyundai i30 / Único Dueño / Buen Estado",
+      "version": "1.6 122 Style 5p",
+      "marca_modelo": "Hyundai i30",
+      "descripcion": "HYUNDAI I30 EN BUEN ESTADO\n[ No Es Negociable ]\n\nAño 2008\nMotor 1.6 ( Muy fiable ) diesel 115 CV \n175.000 kilómetros\nLleva cadena de distribución ( No se cambia )\n-------------------------------------------\n● EQUIPAMIENTO Y EXTRAS. \n》Asientos calefactables \n》Sensores de aparcamiento \n》Asientos de cuero \n》Llantas de aleación \"17\" pulgadas \n》Retrovisores eléctricos plegables \n》Luces automáticas  \n》Volante multifuncion \n》Cierre centralizado \n》Elevalunas eléctricos \n》2 llaves \n》Etiqueta medioambiental etc.\n-------------------------------------------\n● MANTENIMIENTOS.\nTodas revisiones pasadas a su ",
+      "precio": 2500.0,
+      "anio": 2008,
+      "km": 175000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Griñón",
+      "provincia": "Madrid",
+      "codigo_postal": "28971",
+      "pais": "ES",
+      "distancia_km": 27,
+      "url": "https://es.wallapop.com/item/hyundai-i30-unico-dueno-buen-estado-1327054452",
+      "foto": "https://cdn.wallapop.com/images/10420/ly/3d/__/c10420p1327054452/i6880962366.jpg?pictureSize=W640",
+      "publicado": "2026-11-22T14:14:17+00:00",
+      "reservado": false,
+      "coste_traslado": 0,
+      "precio_efectivo": 2500.0,
+      "motor_confirmado": true,
+      "avisos": [],
+      "modelo": "i30",
+      "detectado": "2026-11-22T15:07:26+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:26+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "wzyrm8v28e65",
       "titulo": "Hyundai i30 1.4i 110cv 2011 Etiqueta C",
@@ -36,7 +98,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-22T11:07:22+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:26+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -100,7 +162,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:27+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:26+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -134,7 +196,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-22T13:08:39+00:00",
+      "ultima_vez_visto": "2026-11-22T15:08:45+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -200,7 +262,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:26+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -265,7 +327,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:53+00:00",
+      "ultima_vez_visto": "2026-11-22T15:08:01+00:00",
       "alerta_instantanea": false
     },
     {
@@ -297,7 +359,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-22T13:08:14+00:00",
+      "ultima_vez_visto": "2026-11-22T15:08:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -331,39 +393,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:30+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "w67vm4kdn76x",
-      "titulo": "El estado mecánico del coche es muy bueno.",
-      "version": "1.6 110 Sol 5p Aut",
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "Toyota Corolla Verso cuatro ruedas nuevas vitaría nueva los corrías cambiadas del motor El estado mecánico del coche es muy bueno.",
-      "precio": 1600.0,
-      "anio": 2002,
-      "km": 183000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Palafrugell",
-      "provincia": "Girona",
-      "codigo_postal": "17200",
-      "pais": "ES",
-      "distancia_km": 598,
-      "url": "https://es.wallapop.com/item/el-estado-mecanico-del-coche-es-muy-bueno-1323580352",
-      "foto": "https://cdn.wallapop.com/images/10420/lw/0x/__/c10420p1323580352/i6862041036.jpg?pictureSize=W640",
-      "publicado": "2026-11-12T12:48:24+00:00",
-      "reservado": false,
-      "coste_traslado": 132,
-      "precio_efectivo": 1732.0,
-      "motor_confirmado": true,
-      "avisos": [
-        "lejos: 598 km, traslado aprox. 132 €; pide revisión en un taller de la zona antes de viajar"
-      ],
-      "modelo": "corolla",
-      "detectado": "2026-11-12T13:07:38+00:00",
-      "ultima_vez_visto": "2026-11-18T15:07:39+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:32+00:00",
       "alerta_instantanea": false
     },
     {
@@ -393,7 +423,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-22T13:09:20+00:00",
+      "ultima_vez_visto": "2026-11-22T15:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -425,7 +455,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-22T13:09:16+00:00",
+      "ultima_vez_visto": "2026-11-22T15:09:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -459,7 +489,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:57+00:00",
+      "ultima_vez_visto": "2026-11-22T15:08:07+00:00",
       "alerta_instantanea": false
     },
     {
@@ -491,7 +521,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:53+00:00",
+      "ultima_vez_visto": "2026-11-22T15:08:01+00:00",
       "alerta_instantanea": false
     },
     {
@@ -526,7 +556,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:47+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:52+00:00",
       "alerta_instantanea": false
     },
     {
@@ -558,7 +588,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:47+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:52+00:00",
       "alerta_instantanea": false
     },
     {
@@ -620,7 +650,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:30+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:32+00:00",
       "alerta_instantanea": false
     },
     {
@@ -655,7 +685,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-22T13:07:09+00:00",
+      "ultima_vez_visto": "2026-11-22T15:07:08+00:00",
       "alerta_instantanea": false
     }
   ]
