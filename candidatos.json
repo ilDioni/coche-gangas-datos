@@ -1,10 +1,10 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-23T11:09:35+00:00",
+  "ultima_ejecucion": "2026-11-23T13:09:18+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 845,
+  "anuncios_revisados": 847,
   "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
@@ -37,7 +37,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-22T21:07:24+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:24+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -69,7 +69,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-22T15:07:32+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:32+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -99,7 +99,7 @@
       "avisos": [],
       "modelo": "i30",
       "detectado": "2026-11-22T15:07:26+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -131,7 +131,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-22T11:07:22+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -195,7 +195,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:19+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -229,7 +229,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-23T11:08:49+00:00",
+      "ultima_vez_visto": "2026-11-23T13:08:45+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -295,7 +295,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-19T07:07:26+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:25+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -360,7 +360,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-23T11:08:00+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:57+00:00",
       "alerta_instantanea": false
     },
     {
@@ -392,7 +392,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-23T11:08:19+00:00",
+      "ultima_vez_visto": "2026-11-23T13:08:18+00:00",
       "alerta_instantanea": false
     },
     {
@@ -426,7 +426,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:32+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -456,7 +456,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-23T11:09:29+00:00",
+      "ultima_vez_visto": "2026-11-23T13:09:13+00:00",
       "alerta_instantanea": false
     },
     {
@@ -488,7 +488,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-23T11:09:22+00:00",
+      "ultima_vez_visto": "2026-11-23T13:09:09+00:00",
       "alerta_instantanea": false
     },
     {
@@ -522,7 +522,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-23T11:08:05+00:00",
+      "ultima_vez_visto": "2026-11-23T13:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -554,7 +554,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-23T11:08:00+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:57+00:00",
       "alerta_instantanea": false
     },
     {
@@ -589,7 +589,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:51+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:45+00:00",
       "alerta_instantanea": false
     },
     {
@@ -621,7 +621,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:51+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:45+00:00",
       "alerta_instantanea": false
     },
     {
@@ -683,7 +683,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:32+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -718,7 +718,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-23T11:07:11+00:00",
+      "ultima_vez_visto": "2026-11-23T13:07:10+00:00",
       "alerta_instantanea": false
     }
   ]
