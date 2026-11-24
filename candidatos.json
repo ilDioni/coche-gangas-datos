@@ -1,12 +1,44 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-24T19:09:25+00:00",
+  "ultima_ejecucion": "2026-11-24T21:09:30+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 840,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 842,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "vjrenrw7k9zk",
+      "titulo": "Toyota Corolla 2003",
+      "version": "1.6 VVT-i 110 Luna 3p",
+      "marca_modelo": "Toyota Corolla",
+      "descripcion": "Vendo TOYOTA COROLLA gasolina de 110CV y vá genial. El motor, lo cambiamos por uno de 106.000 kms certificados con factura cuando el coche marcaba 284000 kms. Ahora marca 304.000 kms. La ITV está al día. ¡Ah!. El embrague también lo pusimos nuevo... Dirección asistida, elevalunas delanteros eléctricos, Control de Estabilidad, ABS, Llantas de Aleación, Radio CD original de muy buena calidad. Retrovisores eléctricos. El coche está IMPECABLE aunque con algun toquecillo de pintura sin brillo. A TODA PRUEBA.",
+      "precio": 2900.0,
+      "anio": 2003,
+      "km": 140000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Sagunt/Sagunto",
+      "provincia": "Valencia",
+      "codigo_postal": "46500",
+      "pais": "ES",
+      "distancia_km": 302,
+      "url": "https://es.wallapop.com/item/toyota-corolla-2003-1323396891",
+      "foto": "https://cdn.wallapop.com/images/10420/lv/wz/__/c10420p1323396891/i6860886959.jpg?pictureSize=W640",
+      "publicado": "2026-11-11T20:21:01+00:00",
+      "reservado": false,
+      "coste_traslado": 66,
+      "precio_efectivo": 2966.0,
+      "motor_confirmado": true,
+      "avisos": [
+        "lejos: 302 km, traslado aprox. 66 €; pide revisión en un taller de la zona antes de viajar"
+      ],
+      "modelo": "corolla",
+      "detectado": "2026-11-24T21:07:47+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:47+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "mzn3keepggjn",
       "titulo": "Toyota Avensis 2004",
@@ -36,7 +68,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-24T15:08:42+00:00",
-      "ultima_vez_visto": "2026-11-24T19:08:45+00:00",
+      "ultima_vez_visto": "2026-11-24T21:08:43+00:00",
       "alerta_instantanea": false
     },
     {
@@ -69,7 +101,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-24T15:07:24+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:21+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:23+00:00",
       "rebajado_desde": 2000.0,
       "alerta_instantanea": false
     },
@@ -135,7 +167,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-22T15:07:32+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:28+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:28+00:00",
       "alerta_instantanea": false
     },
     {
@@ -261,7 +293,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:21+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:23+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -295,7 +327,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-24T19:08:45+00:00",
+      "ultima_vez_visto": "2026-11-24T21:08:43+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -328,7 +360,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-17T13:07:57+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:59+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:58+00:00",
       "alerta_instantanea": false
     },
     {
@@ -360,7 +392,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-24T19:08:19+00:00",
+      "ultima_vez_visto": "2026-11-24T21:08:20+00:00",
       "alerta_instantanea": false
     },
     {
@@ -394,7 +426,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:28+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:28+00:00",
       "alerta_instantanea": false
     },
     {
@@ -424,7 +456,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-24T19:09:18+00:00",
+      "ultima_vez_visto": "2026-11-24T21:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -456,7 +488,7 @@
       ],
       "modelo": "yaris",
       "detectado": "2026-11-08T16:42:10+00:00",
-      "ultima_vez_visto": "2026-11-24T19:09:15+00:00",
+      "ultima_vez_visto": "2026-11-24T21:09:19+00:00",
       "alerta_instantanea": false
     },
     {
@@ -490,7 +522,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-24T19:08:03+00:00",
+      "ultima_vez_visto": "2026-11-24T21:08:04+00:00",
       "alerta_instantanea": false
     },
     {
@@ -522,7 +554,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:59+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:58+00:00",
       "alerta_instantanea": false
     },
     {
@@ -557,7 +589,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:48+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:51+00:00",
       "alerta_instantanea": false
     },
     {
@@ -589,37 +621,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:48+00:00",
-      "alerta_instantanea": false
-    },
-    {
-      "id": "3zlmqy2ppnjx",
-      "titulo": "Toyota Corolla 2003",
-      "version": "1.4 VVT-i 97 Terra 5p",
-      "marca_modelo": "Toyota Corolla",
-      "descripcion": "COCHE EN BUEN ESTADO.\nETIQUETA AMBIENTAL B.\nITV AL DIA.\nRUEDAS NUEVAS.\nBATERIA NUEVA.\nCARTLIZADOR NUEVO-\nDETALLE DE PINTURA\nPARA MAS INFORMACION 669024651",
-      "precio": 2990.0,
-      "anio": 2003,
-      "km": 168700,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Madrid",
-      "provincia": "Madrid",
-      "codigo_postal": "28045",
-      "pais": "ES",
-      "distancia_km": 3,
-      "url": "https://es.wallapop.com/item/toyota-corolla-2003-1320379521",
-      "foto": "https://cdn.wallapop.com/images/10420/lu/4b/__/c10420p1320379521/i6842020065.jpg?pictureSize=W640",
-      "publicado": "2026-11-03T16:55:29+00:00",
-      "reservado": false,
-      "coste_traslado": 0,
-      "precio_efectivo": 2990.0,
-      "motor_confirmado": true,
-      "avisos": [],
-      "modelo": "corolla",
-      "detectado": "2026-11-08T16:40:25+00:00",
-      "ultima_vez_visto": "2026-11-20T21:07:50+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:51+00:00",
       "alerta_instantanea": false
     },
     {
@@ -651,7 +653,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:28+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:28+00:00",
       "alerta_instantanea": false
     },
     {
@@ -686,7 +688,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:10+00:00",
+      "ultima_vez_visto": "2026-11-24T21:07:12+00:00",
       "alerta_instantanea": false
     }
   ]
