@@ -1,12 +1,42 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-28T15:09:30+00:00",
+  "ultima_ejecucion": "2026-11-28T17:09:36+00:00",
   "estado": "ok",
   "errores": [],
-  "anuncios_revisados": 838,
-  "nuevos_o_rebajados_en_esta_ejecucion": 0,
+  "anuncios_revisados": 837,
+  "nuevos_o_rebajados_en_esta_ejecucion": 1,
   "candidatos": [
+    {
+      "id": "8z88oovk31z3",
+      "titulo": "Toyota Corolla 2004",
+      "version": "1.6 VVT-i 110 Terra 3p",
+      "marca_modelo": "Toyota Corolla",
+      "descripcion": "Toyota Corolla 1.6 VVT-i 110 CV 3p (2004) – Etiqueta B – Embrague e ITV 07/2027\n\nVendo Toyota Corolla 1.6 VVT-i gasolina (110 CV, acabado Terra, 3 puertas), matriculado en julio de 2004, con 273.000 km. Distintivo ambiental B.\n\nA destacar:\n- ITV en vigor hasta finales de julio de 2027.\n- Kit de embrague cambiado hace un año.\n- Revisiones y cambios de aceite/filtros anuales (no conservo el libro de mantenimiento).\n- Aire acondicionado, elevalunas eléctricos y cierre centralizado.\n\nEstado y detalles a tener en cuenta:\n- Lleva encendido el testigo de fallo de motor, asociado a ese tipo de fallos ",
+      "precio": 1200.0,
+      "anio": 2004,
+      "km": 173000,
+      "km_en_miles": false,
+      "combustible": "gasolina",
+      "cambio": "manual",
+      "ciudad": "Leganés",
+      "provincia": "Madrid",
+      "codigo_postal": "28918",
+      "pais": "ES",
+      "distancia_km": 10,
+      "url": "https://es.wallapop.com/item/toyota-corolla-2004-1329097946",
+      "foto": "https://cdn.wallapop.com/images/10420/lz/b6/__/c10420p1329097946/i6892884427.jpg?pictureSize=W640",
+      "publicado": "2026-11-28T13:27:52+00:00",
+      "reservado": false,
+      "coste_traslado": 0,
+      "precio_efectivo": 1200.0,
+      "motor_confirmado": true,
+      "avisos": [],
+      "modelo": "corolla",
+      "detectado": "2026-11-28T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:44+00:00",
+      "alerta_instantanea": false
+    },
     {
       "id": "0j280pkk9rjy",
       "titulo": "Toyota Corolla 2005",
@@ -37,7 +67,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-28T07:07:39+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:37+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -69,7 +99,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-24T21:07:47+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:43+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:50+00:00",
       "alerta_instantanea": false
     },
     {
@@ -101,7 +131,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-24T15:08:42+00:00",
-      "ultima_vez_visto": "2026-11-28T15:08:44+00:00",
+      "ultima_vez_visto": "2026-11-28T17:08:54+00:00",
       "alerta_instantanea": false
     },
     {
@@ -232,7 +262,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:22+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:24+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -266,7 +296,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-28T15:08:44+00:00",
+      "ultima_vez_visto": "2026-11-28T17:08:54+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -331,7 +361,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-28T15:08:17+00:00",
+      "ultima_vez_visto": "2026-11-28T17:08:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -365,7 +395,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:25+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -395,7 +425,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-28T15:09:24+00:00",
+      "ultima_vez_visto": "2026-11-28T17:09:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -461,7 +491,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-28T15:08:03+00:00",
+      "ultima_vez_visto": "2026-11-28T17:08:10+00:00",
       "alerta_instantanea": false
     },
     {
@@ -493,7 +523,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-28T15:08:03+00:00",
+      "ultima_vez_visto": "2026-11-28T17:08:10+00:00",
       "alerta_instantanea": false
     },
     {
@@ -560,7 +590,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:48+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:55+00:00",
       "alerta_instantanea": false
     },
     {
@@ -592,7 +622,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:25+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:31+00:00",
       "alerta_instantanea": false
     },
     {
@@ -627,7 +657,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-28T15:07:09+00:00",
+      "ultima_vez_visto": "2026-11-28T17:07:12+00:00",
       "alerta_instantanea": false
     }
   ]
