@@ -1,11 +1,11 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-28T07:09:27+00:00",
+  "ultima_ejecucion": "2026-11-28T09:09:32+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 839,
-  "nuevos_o_rebajados_en_esta_ejecucion": 1,
+  "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
       "id": "0j280pkk9rjy",
@@ -37,7 +37,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-28T07:07:39+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:39+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:39+00:00",
       "alerta_instantanea": false
     },
     {
@@ -69,7 +69,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-24T21:07:47+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:46+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:46+00:00",
       "alerta_instantanea": false
     },
     {
@@ -101,7 +101,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-24T15:08:42+00:00",
-      "ultima_vez_visto": "2026-11-28T07:08:52+00:00",
+      "ultima_vez_visto": "2026-11-28T09:08:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -294,7 +294,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:23+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:22+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -328,7 +328,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-28T07:08:51+00:00",
+      "ultima_vez_visto": "2026-11-28T09:08:47+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -393,7 +393,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-28T07:08:24+00:00",
+      "ultima_vez_visto": "2026-11-28T09:08:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -427,7 +427,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:28+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -457,7 +457,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-28T07:09:23+00:00",
+      "ultima_vez_visto": "2026-11-28T09:09:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -523,7 +523,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-28T07:08:07+00:00",
+      "ultima_vez_visto": "2026-11-28T09:08:07+00:00",
       "alerta_instantanea": false
     },
     {
@@ -555,7 +555,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-28T07:08:07+00:00",
+      "ultima_vez_visto": "2026-11-28T09:08:07+00:00",
       "alerta_instantanea": false
     },
     {
@@ -590,7 +590,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:52+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:51+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +622,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:52+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:51+00:00",
       "alerta_instantanea": false
     },
     {
@@ -654,7 +654,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:28+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:29+00:00",
       "alerta_instantanea": false
     },
     {
@@ -689,7 +689,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-28T07:07:15+00:00",
+      "ultima_vez_visto": "2026-11-28T09:07:11+00:00",
       "alerta_instantanea": false
     }
   ]
