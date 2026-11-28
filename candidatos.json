@@ -1,11 +1,11 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-28T17:09:36+00:00",
+  "ultima_ejecucion": "2026-11-28T19:09:26+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 837,
-  "nuevos_o_rebajados_en_esta_ejecucion": 1,
+  "nuevos_o_rebajados_en_esta_ejecucion": 0,
   "candidatos": [
     {
       "id": "8z88oovk31z3",
@@ -34,7 +34,7 @@
       "avisos": [],
       "modelo": "corolla",
       "detectado": "2026-11-28T17:07:44+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:38+00:00",
       "alerta_instantanea": false
     },
     {
@@ -67,7 +67,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-28T07:07:39+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:44+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:38+00:00",
       "alerta_instantanea": false
     },
     {
@@ -99,7 +99,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-24T21:07:47+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:50+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -131,7 +131,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-24T15:08:42+00:00",
-      "ultima_vez_visto": "2026-11-28T17:08:54+00:00",
+      "ultima_vez_visto": "2026-11-28T19:08:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -166,39 +166,6 @@
       "detectado": "2026-11-24T15:07:24+00:00",
       "ultima_vez_visto": "2026-11-26T15:07:23+00:00",
       "rebajado_desde": 2000.0,
-      "alerta_instantanea": false
-    },
-    {
-      "id": "pzpklog9m4j3",
-      "titulo": "Hyundai i30 2011",
-      "version": "1.4 109 Confort 5p",
-      "marca_modelo": "Hyundai i30",
-      "descripcion": "Hyundai i30 año 2011 con ITV en vigor. Coche en funcionamiento.",
-      "precio": 1900.0,
-      "anio": 2011,
-      "km": 183000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Alaquas",
-      "provincia": "Valencia",
-      "codigo_postal": "46970",
-      "pais": "ES",
-      "distancia_km": 297,
-      "url": "https://es.wallapop.com/item/hyundai-i30-2011-1327216098",
-      "foto": "https://cdn.wallapop.com/images/10420/ly/6u/__/c10420p1327216098/i6881631674.jpg?pictureSize=W640",
-      "publicado": "2026-11-22T20:44:40+00:00",
-      "reservado": false,
-      "coste_traslado": 65,
-      "precio_efectivo": 1965.0,
-      "motor_confirmado": false,
-      "avisos": [
-        "lejos: 297 km, traslado aprox. 65 €; pide revisión en un taller de la zona antes de viajar",
-        "motor 1.4 109 Confort 5p: no es el preferido"
-      ],
-      "modelo": "i30",
-      "detectado": "2026-11-22T21:07:24+00:00",
-      "ultima_vez_visto": "2026-11-24T19:07:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -262,7 +229,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:24+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:21+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -296,7 +263,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-28T17:08:54+00:00",
+      "ultima_vez_visto": "2026-11-28T19:08:47+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -361,7 +328,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-28T17:08:26+00:00",
+      "ultima_vez_visto": "2026-11-28T19:08:21+00:00",
       "alerta_instantanea": false
     },
     {
@@ -395,7 +362,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:31+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -425,7 +392,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-28T17:09:31+00:00",
+      "ultima_vez_visto": "2026-11-28T19:09:22+00:00",
       "alerta_instantanea": false
     },
     {
@@ -491,7 +458,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-28T17:08:10+00:00",
+      "ultima_vez_visto": "2026-11-28T19:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -523,7 +490,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-28T17:08:10+00:00",
+      "ultima_vez_visto": "2026-11-28T19:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -590,7 +557,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:55+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:47+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +589,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:31+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:26+00:00",
       "alerta_instantanea": false
     },
     {
@@ -657,7 +624,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-28T17:07:12+00:00",
+      "ultima_vez_visto": "2026-11-28T19:07:12+00:00",
       "alerta_instantanea": false
     }
   ]
