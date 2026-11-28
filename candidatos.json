@@ -1,7 +1,7 @@
 {
   "fuente": "wallapop",
   "generado_por": "raspberry",
-  "ultima_ejecucion": "2026-11-28T13:09:26+00:00",
+  "ultima_ejecucion": "2026-11-28T15:09:30+00:00",
   "estado": "ok",
   "errores": [],
   "anuncios_revisados": 838,
@@ -37,7 +37,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-28T07:07:39+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:35+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:37+00:00",
       "alerta_instantanea": false
     },
     {
@@ -69,7 +69,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-24T21:07:47+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:39+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:43+00:00",
       "alerta_instantanea": false
     },
     {
@@ -101,7 +101,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-24T15:08:42+00:00",
-      "ultima_vez_visto": "2026-11-28T13:08:41+00:00",
+      "ultima_vez_visto": "2026-11-28T15:08:44+00:00",
       "alerta_instantanea": false
     },
     {
@@ -204,36 +204,6 @@
       "alerta_instantanea": false
     },
     {
-      "id": "w67vmpwkq96x",
-      "titulo": "Hyundai i30 2008",
-      "version": "1.6 122 Style 5p",
-      "marca_modelo": "Hyundai i30",
-      "descripcion": "HYUNDAI I30 EN BUEN ESTADO\n[ No Es Negociable ]\n\nAño 2008\nMotor 1.6 ( Muy fiable ) diesel 115 CV \n175.000 kilómetros\nLleva cadena de distribución ( No se cambia )\n-------------------------------------------\n● EQUIPAMIENTO Y EXTRAS. \n》Asientos calefactables \n》Sensores de aparcamiento \n》Asientos de cuero \n》Llantas de aleación \"17\" pulgadas \n》Retrovisores eléctricos plegables \n》Luces automáticas  \n》Volante multifuncion \n》Cierre centralizado \n》Elevalunas eléctricos \n》2 llaves \n》Etiqueta medioambiental etc.\n-------------------------------------------\n● MANTENIMIENTOS.\nTodas revisiones pasadas a su ",
-      "precio": 2500.0,
-      "anio": 2008,
-      "km": 175000,
-      "km_en_miles": false,
-      "combustible": "gasolina",
-      "cambio": "manual",
-      "ciudad": "Griñón",
-      "provincia": "Madrid",
-      "codigo_postal": "28971",
-      "pais": "ES",
-      "distancia_km": 27,
-      "url": "https://es.wallapop.com/item/hyundai-i30-unico-dueno-buen-estado-1327054452",
-      "foto": "https://cdn.wallapop.com/images/10420/ly/3d/__/c10420p1327054452/i6880962366.jpg?pictureSize=W640",
-      "publicado": "2026-11-22T14:14:17+00:00",
-      "reservado": false,
-      "coste_traslado": 0,
-      "precio_efectivo": 2500.0,
-      "motor_confirmado": true,
-      "avisos": [],
-      "modelo": "i30",
-      "detectado": "2026-11-22T15:07:26+00:00",
-      "ultima_vez_visto": "2026-11-24T15:07:24+00:00",
-      "alerta_instantanea": false
-    },
-    {
       "id": "36e5menxgq6d",
       "titulo": "Hyundai i30 2009",
       "version": "1.4 109 Classic 5p",
@@ -262,7 +232,7 @@
       ],
       "modelo": "i30",
       "detectado": "2026-11-20T17:07:21+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:21+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:22+00:00",
       "rebajado_desde": 2600.0,
       "alerta_instantanea": false
     },
@@ -296,7 +266,7 @@
       ],
       "modelo": "avensis",
       "detectado": "2026-11-19T19:08:39+00:00",
-      "ultima_vez_visto": "2026-11-28T13:08:41+00:00",
+      "ultima_vez_visto": "2026-11-28T15:08:44+00:00",
       "rebajado_desde": 1900.0,
       "alerta_instantanea": false
     },
@@ -361,7 +331,7 @@
       ],
       "modelo": "accord",
       "detectado": "2026-11-13T21:08:13+00:00",
-      "ultima_vez_visto": "2026-11-28T13:08:15+00:00",
+      "ultima_vez_visto": "2026-11-28T15:08:17+00:00",
       "alerta_instantanea": false
     },
     {
@@ -395,7 +365,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-12T19:07:35+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:27+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -425,7 +395,7 @@
       "avisos": [],
       "modelo": "yaris",
       "detectado": "2026-11-09T15:09:30+00:00",
-      "ultima_vez_visto": "2026-11-28T13:09:22+00:00",
+      "ultima_vez_visto": "2026-11-28T15:09:24+00:00",
       "alerta_instantanea": false
     },
     {
@@ -491,7 +461,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:52+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:59+00:00",
+      "ultima_vez_visto": "2026-11-28T15:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -523,7 +493,7 @@
       ],
       "modelo": "mazda3",
       "detectado": "2026-11-08T16:40:46+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:58+00:00",
+      "ultima_vez_visto": "2026-11-28T15:08:03+00:00",
       "alerta_instantanea": false
     },
     {
@@ -558,7 +528,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:43+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:48+00:00",
       "alerta_instantanea": false
     },
     {
@@ -590,7 +560,7 @@
       ],
       "modelo": "corolla",
       "detectado": "2026-11-08T16:40:29+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:43+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:48+00:00",
       "alerta_instantanea": false
     },
     {
@@ -622,7 +592,7 @@
       ],
       "modelo": "ceed",
       "detectado": "2026-11-08T16:40:16+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:27+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:25+00:00",
       "alerta_instantanea": false
     },
     {
@@ -657,7 +627,7 @@
       ],
       "modelo": "civic",
       "detectado": "2026-11-08T16:39:58+00:00",
-      "ultima_vez_visto": "2026-11-28T13:07:11+00:00",
+      "ultima_vez_visto": "2026-11-28T15:07:09+00:00",
       "alerta_instantanea": false
     }
   ]
